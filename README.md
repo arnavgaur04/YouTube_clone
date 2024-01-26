@@ -20,7 +20,7 @@ Welcome to the YouTube Frontend Clone! This project is a clone of the YouTube fr
 1. Clone the Repository:
     ```bash
     git clone <repository-url>
-    cd youtube-frontend-clone
+    cd Youtube-clone
 
 2. Install Dependencies:
     ```bash
